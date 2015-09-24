@@ -10,7 +10,7 @@ Example:
     $ python exercise1.py
 
 """
-
+#Tessie's first change
 __author__ = 'Susan Sim'
 __email__ = "ses@drsusansim.org"
 
